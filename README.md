@@ -3,7 +3,7 @@
 - Read from `ganjoor.s3db.zip` sqlite https://github.com/ganjoor/desktop/releases/tag/v2.81 (use latest version instead)
 - Embed poems  (sentence transformers)
   - https://www.sbert.net/docs/pretrained_models.html#multi-lingual-models
-  - https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+  - https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
 - Insert into Qdrant
   - https://github.com/qdrant/qdrant
   - http://localhost:6333/dashboard
