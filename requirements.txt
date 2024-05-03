@@ -1,0 +1,6 @@
+sentence-transformers
+qdrant_client
+jupyter
+marimo
+requests
+gradio
